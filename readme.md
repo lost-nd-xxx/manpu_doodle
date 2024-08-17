@@ -7,6 +7,8 @@
 * 加工自由＆再配布可＆商用利用可＆著作表記不要
 * `img`フォルダは左上1pxが抜き色の伺か向けPNG（pna不要）です
 * `img_32bit`フォルダは透過処理済みの32bitPNGです
+* 末尾に`_reversed`の付くフォルダは左右反転版です
+  * 単純な左右反転でおかしくなる図柄を修正しています
 
 ## ダウンロード
 * [一括DLはこちらから](https://github.com/lost-nd-xxx/manpu_doodle/archive/refs/heads/main.zip)
